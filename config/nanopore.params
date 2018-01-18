@@ -1,0 +1,136 @@
+# lastal version: 912
+# maximum percent identity: 100
+# scale of score parameters: 4.36661
+# scale used while training: 87.3322
+
+# lastal -j7 -S1 -Q1 /data/liangfan/BJXWZ-201710001_nanopore_SV/03_alignment/ref/humdb /tmp/tmpkblv85
+
+# aligned letter pairs: 807462.6
+# deletes: 42593.4386
+# inserts: 33462.6818
+# delOpens: 24650.7393
+# insOpens: 20443.19661
+# alignments: 646
+# mean delete size: 1.72788
+# mean insert size: 1.63686
+# delOpenProb: 0.028892
+# insOpenProb: 0.0239605
+# delExtendProb: 0.421255
+# insExtendProb: 0.389075
+
+# delExistCost: 282
+# insExistCost: 286
+# delExtendCost: 76
+# insExtendCost: 82
+
+# lastal -j7 -S1 -Q1 -p- /data/liangfan/BJXWZ-201710001_nanopore_SV/03_alignment/ref/humdb /tmp/tmpkblv85
+
+# aligned letter pairs: 880279.0
+# deletes: 66278.5
+# inserts: 51055.5
+# delOpens: 37652.4
+# insOpens: 31037.84
+# alignments: 545
+# mean delete size: 1.76027
+# mean insert size: 1.64494
+# delOpenProb: 0.0396543
+# insOpenProb: 0.0326881
+# delExtendProb: 0.431906
+# insExtendProb: 0.392076
+
+# delExistCost: 258
+# insExistCost: 260
+# delExtendCost: 73
+# insExtendCost: 82
+
+# lastal -j7 -S1 -Q1 -p- /data/liangfan/BJXWZ-201710001_nanopore_SV/03_alignment/ref/humdb /tmp/tmpkblv85
+
+# aligned letter pairs: 877683.4
+# deletes: 68956.39
+# inserts: 53383.21
+# delOpens: 39664.84
+# insOpens: 32880.41
+# alignments: 540
+# mean delete size: 1.73848
+# mean insert size: 1.62356
+# delOpenProb: 0.0417187
+# insOpenProb: 0.0345829
+# delExtendProb: 0.424784
+# insExtendProb: 0.384068
+
+# delExistCost: 251
+# insExistCost: 253
+# delExtendCost: 75
+# insExtendCost: 84
+
+# lastal -j7 -S1 -Q1 -p- /data/liangfan/BJXWZ-201710001_nanopore_SV/03_alignment/ref/humdb /tmp/tmpkblv85
+
+# aligned letter pairs: 877921.3
+# deletes: 69087.41
+# inserts: 53596.49
+# delOpens: 40098.29
+# insOpens: 33249.07
+# alignments: 542
+# mean delete size: 1.72295
+# mean insert size: 1.61197
+# delOpenProb: 0.0421284
+# insOpenProb: 0.0349324
+# delExtendProb: 0.419601
+# insExtendProb: 0.379641
+
+# delExistCost: 248
+# insExistCost: 250
+# delExtendCost: 76
+# insExtendCost: 85
+
+# lastal -j7 -S1 -Q1 -p- /data/liangfan/BJXWZ-201710001_nanopore_SV/03_alignment/ref/humdb /tmp/tmpkblv85
+
+# aligned letter pairs: 877924.6
+# deletes: 69127.85
+# inserts: 53600.1
+# delOpens: 40276.74
+# insOpens: 33382.32
+# alignments: 543
+# mean delete size: 1.71632
+# mean insert size: 1.60564
+# delOpenProb: 0.0423018
+# insOpenProb: 0.0350608
+# delExtendProb: 0.417359
+# insExtendProb: 0.377197
+
+# delExistCost: 247
+# insExistCost: 249
+# delExtendCost: 76
+# insExtendCost: 85
+
+# lastal -j7 -S1 -Q1 -p- /data/liangfan/BJXWZ-201710001_nanopore_SV/03_alignment/ref/humdb /tmp/tmpkblv85
+
+# aligned letter pairs: 877998.9
+# deletes: 69241.29
+# inserts: 53746.29
+# delOpens: 40376.17
+# insOpens: 33474.18
+# alignments: 542
+# mean delete size: 1.7149
+# mean insert size: 1.6056
+# delOpenProb: 0.0423945
+# insOpenProb: 0.0351475
+# delExtendProb: 0.416877
+# insExtendProb: 0.377182
+
+# delExistCost: 247
+# insExistCost: 249
+# delExtendCost: 76
+# insExtendCost: 85
+
+#last -a 12
+#last -A 12
+#last -b 4
+#last -B 4
+#last -S 1
+# score matrix (query letters = columns, reference letters = rows):
+       A      C      G      T
+A      6    -18    -18    -18
+C    -18      6    -18    -18
+G    -18    -18      6    -18
+T    -18    -18    -18      6
