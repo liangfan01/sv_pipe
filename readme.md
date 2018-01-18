@@ -1,9 +1,14 @@
 A pipeline for sv calling
+
 ##step 1 Add lib to PYTHONPATH
+
 ```shell
 export PYTHONPATH=/path/pipeline/:$PYTHONPATH
-```shell
+
+```
+
 ##step 2 run run_sv_pipe.py
+
 ```shell
 python3 run_sv_pipe.py --help
 usage: nanopore SV pipeline [-h] --list LIST --outdir OUTDIR
